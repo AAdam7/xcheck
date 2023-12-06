@@ -24,7 +24,7 @@ xCrossApp:
 
 ## The Code / Installation
 
-Two directory:
+Two directories:
 
 - `api-test` - API Nuxt 
 - `front-test` - Vue3 App
